@@ -6,7 +6,15 @@ Este repositório contém materiais de estudo e guias para aprender Microsoft Az
 
 ### 🎯 Conteúdo
 
-- **[Guia Azure Fundamentals](GUIA_AZURE_FUNDAMENTALS.md)** - Guia completo para aprender os fundamentos do Azure baseado no curso oficial "Master the basics of Azure: Fundamentals"
+#### Guia Principal
+- **[Guia Azure Fundamentals](GUIA_AZURE_FUNDAMENTALS.md)** - Guia completo do curso com 10 módulos organizados
+
+#### Recursos de Apoio
+- **[Primeiros Passos](recursos/PRIMEIROS_PASSOS.md)** - Tutorial prático para criar sua conta e começar
+- **[Glossário](recursos/GLOSSARIO.md)** - Dicionário de termos técnicos do Azure
+- **[Links Úteis](recursos/LINKS_UTEIS.md)** - Coleção curada de documentação e recursos
+- **[FAQ](recursos/FAQ.md)** - Perguntas frequentes e suas respostas
+- **[Plano de Estudos](recursos/PLANO_DE_ESTUDOS.md)** - Template para organizar seu aprendizado
 
 ### 🚀 Como Começar
 
@@ -20,6 +28,21 @@ Este repositório contém materiais de estudo e guias para aprender Microsoft Az
 - **Documentação**: https://learn.microsoft.com/pt-br/azure/
 - **Microsoft Learn**: https://learn.microsoft.com/pt-br/training/
 - **Coleção do Curso**: https://learn.microsoft.com/en-us/collections/n6ga8m0jkgrwk
+
+### 📁 Estrutura do Repositório
+
+```
+azure/
+├── README.md                          # Este arquivo
+├── GUIA_AZURE_FUNDAMENTALS.md        # Guia principal do curso
+├── modulos/                           # Diretório para módulos específicos
+└── recursos/                          # Materiais de apoio
+    ├── PRIMEIROS_PASSOS.md           # Tutorial prático inicial
+    ├── GLOSSARIO.md                  # Termos técnicos
+    ├── LINKS_UTEIS.md                # Recursos e documentação
+    ├── FAQ.md                        # Perguntas frequentes
+    └── PLANO_DE_ESTUDOS.md           # Template de planejamento
+```
 
 ### 🎓 Certificação
 
